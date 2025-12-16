@@ -1,4 +1,4 @@
-# Tesis – Seguimiento de pose 3D en video para realidad virtual
+# Tesis – SEGUIMIENTO DE POSE EN VIDEO USANDO TÉCNICAS DE DEEP LEARNING PARA PROYECCIÓN TRIDIMENSIONAL EN APLICACIONES DE REALIDAD VIRTUAL
 
 Este repositorio contiene los notebooks utilizados en mi trabajo de grado sobre **estimación de pose 3D en video** y comparación de distintos modelos (VIBE, MediaPipe BlazePose, etc.) para aplicaciones de realidad virtual.
 
